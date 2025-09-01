@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.7
+      - image: quay.io/rhtap_qe/go-gbxntiru:d67f1557be7922d5ba8eb3a0447fc691fbccd9d3@sha256:1ed710ac9c534dd0c9eeb116944f237496e0d802dda95e547d90603ed1d52841
         name: container-image  
